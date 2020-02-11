@@ -1,0 +1,7 @@
+1. use a pc
+2. install intellj
+3. import the files
+4. within run configuration, enable parallel run
+5. run the server first
+6. run the client as many times as you want clients
+7. follow to prompt
